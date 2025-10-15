@@ -231,10 +231,7 @@ Potential features to add:
 - Receipt image storage
 - Split expenses
 - Income tracking
-
-## License
-
-[Add your license here]
+ 
 
 ## Contributing
 
