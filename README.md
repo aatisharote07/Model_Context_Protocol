@@ -41,7 +41,7 @@ The system includes 20 main categories with detailed subcategories:
 - 💼 **Business**: software, hosting, marketing, travel
 - ✈️ **Travel**: flights, hotels, transportation, food
 - 🏡 **Home**: household supplies, cleaning, kitchenware
-- 🐾 **Pet**: food, vet, grooming, supplies
+- 🐾 **Pet**: food, vet, grooming
 - 📋 **Taxes**: income tax, GST, filing fees
 - 📈 **Investments**: mutual funds, stocks, crypto
 - 📦 **Miscellaneous**: uncategorized items
