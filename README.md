@@ -33,7 +33,7 @@ The system includes 20 main categories with detailed subcategories:
 - 📚 **Education**: books, courses, subscriptions, workshops
 - 👨‍👩‍👧 **Family & Kids**: school fees, daycare, toys, clothes
 - 🎬 **Entertainment**: movies, streaming, games, outings
-- 🛍️ **Shopping**: clothing, electronics, accessories, appliances
+- 🛍️ **Shopping**: clothing, electronics, accessories 
 - 📱 **Subscriptions**: SaaS tools, cloud services, streaming
 - 💅 **Personal Care**: salon, grooming, cosmetics
 - 🎁 **Gifts & Donations**: personal gifts, charity, festivals
