@@ -43,7 +43,7 @@ The system includes 20 main categories with detailed subcategories:
 - 🏡 **Home**: household supplies, cleaning, kitchenware
 - 🐾 **Pet**: food, vet, grooming
 - 📋 **Taxes**: income tax, GST, filing fees
-- 📈 **Investments**: mutual funds, stocks, crypto
+- 📈 **Investments**: mutual funds, stocks
 - 📦 **Miscellaneous**: uncategorized items
 
 ## Installation
