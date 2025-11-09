@@ -233,9 +233,7 @@ Potential features to add:
 - Income tracking
  
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests.
+ 
 
 ## Acknowledgments
 
