@@ -36,7 +36,7 @@ The system includes 20 main categories with detailed subcategories:
 - 🛍️ **Shopping**: clothing, electronics, accessories 
 - 📱 **Subscriptions**: SaaS tools, cloud services, streaming
 - 💅 **Personal Care**: salon, grooming, cosmetics
-- 🎁 **Gifts & Donations**: personal gifts, charity, festivals
+- 🎁 **Gifts & Donations**: personal gifts,   festivals
 - 💰 **Finance & Fees**: bank charges, interest, brokerage
 - 💼 **Business**: software, hosting, marketing, travel
 - ✈️ **Travel**: flights, hotels, transportation, food
